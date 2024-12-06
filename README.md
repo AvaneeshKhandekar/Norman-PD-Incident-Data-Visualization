@@ -20,7 +20,7 @@ To fetch incident data from a specified PDF report URL:
 pipenv run streamlit run app.py
 ```
 
-Visit: ```http://localhost:8501/``` to access the app.
+Visit: ```http://localhost:8501/``` after running to access the app.
 
 ## Demo
 
