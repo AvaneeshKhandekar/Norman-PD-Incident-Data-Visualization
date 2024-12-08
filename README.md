@@ -151,6 +151,8 @@ Streamlit is an open-source Python framework for data scientists and AI/ML engin
 
 ### Tests
 
+To run: ```pipenv run python -m pytest```
+
 #### `test_extract_incident_data`
 
 - Mocks the PDF reading process and verifies that data is extracted correctly, checking if the resulting list of data
